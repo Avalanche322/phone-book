@@ -1,0 +1,12 @@
+export const homeScreen = "Головна";
+export const phoneCodesScreen = "Тел. коди";
+export const allNumbersScreen = "Тел. номери";
+export const searchScreen = "Пошук";
+export const profileScreen = "Профіль";
+export const loginScreen = "Вхід";
+export const registrationScreen = "Реєстрація";
+export const phonePageScreen = "Інформація про номер";
+export const historyNumbersScreen = "Історія номерів";
+export const favoriteNumbersNumbersScreen = "Збереженні номера";
+export const historyCommentsScreen = "Історія коментарів";
+export const requestDeleteComment = "Запит на видалення коментаря";

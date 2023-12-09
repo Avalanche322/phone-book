@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "phone-book",
+    "slug": "phone-book",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
